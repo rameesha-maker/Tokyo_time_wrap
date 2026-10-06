@@ -7,6 +7,7 @@ Also to face these xchallenges he will get powers like bamboo copter to get to t
 
 what does it currently do:
 for now only the player can move up down ,back,and forward . also the platforms are enabled where we can move and then at the end is the time jump that takes you to the next era the futuristic and after the futuristic era .
+one more thing is that the camers is synchronized with the player and moves with it.
 
 Technology used:
 i used pygame to build this .and used OOP(object oriented programming),which i recently learned to make this game.
